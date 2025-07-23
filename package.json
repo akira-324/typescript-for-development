@@ -16,5 +16,8 @@
     "url": "https://github.com/akira-324/typescript-for-development/issues"
   },
   "homepage": "https://github.com/akira-324/typescript-for-development#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
 }
